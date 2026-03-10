@@ -1,6 +1,6 @@
 # Financial Stability Analytics Engine
 
-An Excel-based financial analytics engine that analyzes installment collections, detects revenue risk, and simulates financial stability for coaching institutes.
+An Excel-based financial analytics engine that analyzes installment collections, detects revenue risk and simulates financial stability for coaching institutes.
 
 ## Project Objective
 
@@ -12,7 +12,7 @@ The system evaluates collection performance, identifies overdue risk and estimat
 
 This project is an Excel-based financial analytics dashboard designed to simulate and monitor the financial stability of coaching institutes that collect student fees through installment payments.
 
-The dashboard tracks revenue performance, installment collections, overdue risk, and operational efficiency. It also includes a strategy simulation section that allows users to evaluate how improvements in collection performance could affect financial stability.
+The dashboard tracks revenue performance, installment collections, overdue risk and operational efficiency. It also includes a strategy simulation section that allows users to evaluate how improvements in collection performance could affect financial stability.
 
 The project demonstrates how Excel can be used not only for reporting but also for financial analytics and operational diagnostics.
 
@@ -102,7 +102,7 @@ This feature demonstrates how analytical dashboards can be used not only for mon
 
 ---
 
-## Tools Used
+## Skills Used
 
 - Microsoft Excel
 - Advanced Excel Formulas
