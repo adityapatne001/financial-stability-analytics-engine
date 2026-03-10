@@ -1,14 +1,14 @@
-# Financial Stability Analytics Engine
+# 📊 Financial Stability Analytics Engine
 
 An Excel-based financial analytics engine that analyzes installment collections, detects revenue risk and simulates financial stability for coaching institutes.
 
-## Project Objective
+## 🎯 Project Objective
 
 The objective of this project was to design an analytical dashboard that converts installment payment data into operational and financial insights.
 
 The system evaluates collection performance, identifies overdue risk and estimates how improvements in operational efficiency could influence financial stability.
 
-## Project Overview
+## 📌 Project Overview
 
 This project is an Excel-based financial analytics dashboard designed to simulate and monitor the financial stability of coaching institutes that collect student fees through installment payments.
 
@@ -18,7 +18,7 @@ The project demonstrates how Excel can be used not only for reporting but also f
 
 ---
 
-## Problem Statement
+## ❓ Problem Statement
 
 Many coaching institutes operate on installment-based fee structures. Delays in payments or high overdue balances can create serious cashflow instability.
 
@@ -35,7 +35,7 @@ The dashboard provides analytical insights to support better financial monitorin
 
 ---
 
-## Dashboard Features
+## 📊 Dashboard Features
 
 The dashboard is divided into multiple analytical sections:
 
@@ -62,7 +62,7 @@ The dashboard is divided into multiple analytical sections:
 
 ---
 
-## Key Metrics Explained
+## 📈 Key Metrics Explained
 
 **Collection Efficiency**
 
@@ -86,7 +86,7 @@ A composite indicator designed to evaluate the financial health of the institute
 
 ---
 
-## Strategy Simulator
+## 🧠 Strategy Simulator
 
 The dashboard also includes a strategy simulation section that models potential improvements in financial performance.
 
@@ -102,7 +102,7 @@ This feature demonstrates how analytical dashboards can be used not only for mon
 
 ---
 
-## Skills Used
+## 🛠 Skills Used
 
 - Microsoft Excel
 - Advanced Excel Formulas
@@ -111,7 +111,7 @@ This feature demonstrates how analytical dashboards can be used not only for mon
 - KPI Development
 - Business Analytics
 
-Key Excel functions used include:
+🔹 Key Excel functions used include:
 
 - XLOOKUP
 - INDEX
@@ -121,7 +121,7 @@ Key Excel functions used include:
 
 ---
 
-## Dashboard Screenshots
+## 🖼 Dashboard Screenshots
 
 ### Dashboard Overview
 
@@ -137,7 +137,7 @@ Key Excel functions used include:
 
 ---
 
-## Author
+## 👤 Author
 
 **Aditya Patne**
 
