@@ -1,7 +1,5 @@
 # 📊 Financial Stability Analytics Engine
 
-An Excel-based financial analytics engine that analyzes installment collections, detects revenue risk and simulates financial stability for coaching institutes.
-
 ## 🎯 Project Objective
 
 The objective of this project was to design an analytical dashboard that converts installment payment data into operational and financial insights.
